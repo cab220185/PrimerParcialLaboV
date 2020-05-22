@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">first partial</string>
+    <string name="textoCantidad">Quantity</string>
+    <string name="textoPrecio">Unit price</string>
+    <string name="btnguardar">Edit</string>
+</resources>
